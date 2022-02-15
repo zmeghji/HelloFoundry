@@ -4,3 +4,6 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/Rari-Capital/solmate
+[submodule "HelloFoundry/lib/ds-test"]
+	path = HelloFoundry/lib/ds-test
+	url = https://github.com/dapphub/ds-test
