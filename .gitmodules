@@ -7,3 +7,6 @@
 [submodule "HelloFoundry/lib/ds-test"]
 	path = HelloFoundry/lib/ds-test
 	url = https://github.com/dapphub/ds-test
+[submodule "HelloFoundry/lib/solmate"]
+	path = HelloFoundry/lib/solmate
+	url = https://github.com/Rari-Capital/solmate
